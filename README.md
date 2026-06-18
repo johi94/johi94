@@ -15,6 +15,7 @@ Currently building my skills through hands-on projects and a frontend course.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
 
 ### 🔗 Connect
 - 🌐 Portfolio: [[your-domain.de]()](#)
