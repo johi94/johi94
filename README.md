@@ -3,7 +3,6 @@
 🎯 **Frontend Developer** focused on **Angular** & modern web development.
 Currently building my skills through hands-on projects and a frontend course.
 
-- 🌱 Currently learning: **Angular, TypeScript, RxJS & responsive design**
 - 🚀 Working on: my personal **portfolio** (multilingual, Angular-based)
 - 💬 Languages: German (native), English (advanced), Spanish (intermediate)
 - 📫 Reach me: **jhildebrand94@googlemail.com**
