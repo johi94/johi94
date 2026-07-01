@@ -18,5 +18,5 @@ Currently building my skills through hands-on projects and a frontend course.
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
 
 ### 🔗 Connect
-- 🌐 Portfolio: [[your-domain.de]()](#)
+- 🌐 Portfolio: [[your-domain.de](https://jonas-hildebrand.de/)](#)
 - 💼 LinkedIn: [[your-linkedin](https://www.linkedin.com/in/jonas-hildebrand-476b2b340/)](#)
