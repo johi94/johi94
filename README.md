@@ -1,7 +1,7 @@
 # Hi I'm Jonas
 
 🎯 **Frontend Developer** focused on **Angular** & modern web development.
-Currently building my skills through hands-on projects and a frontend course.
+
 
 - 💬 Languages: German (native), English (advanced), Spanish (intermediate)
 - 📫 Reach me: **jhildebrand94@googlemail.com**
