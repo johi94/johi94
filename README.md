@@ -18,13 +18,14 @@ Currently building my skills through hands-on projects and a frontend course.
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
 
 
-## 🚀 Projekte
+## 🚀 Projects
 
-| Projekt | Beschreibung | Stack | Demo |
-|---------|--------------|-------|------|
-| [Join](https://github.com/johi94/Join) | Kanban-Board zur Aufgabenverwaltung mit Drag & Drop, Kontaktverwaltung und Login | JavaScript, HTML, CSS, Firebase | [Live](https://join.jonas-hildebrand.de) |
-| [El Pollo Loco](https://github.com/johi94/El-Pollo-Loco) | 2D-Jump-and-Run-Spiel mit Canvas-Rendering, Kollisionslogik und Soundeffekten | JavaScript, CSS, HTML | [Live](https://pollo-loco.jonas-hildebrand.de/) |
-| [Pokédex](https://github.com/johi94/Pokedex) | Pokémon-Übersicht mit Live-Suche und Detailansicht über die PokéAPI | JavaScript, REST API, CSS | [Live](https://pokedex.jonas-hildebrand.de) |
+| Project | Description | Stack | Demo |
+|---------|-------------|-------|------|
+| [Join](https://github.com/johi94/Join) | Kanban board for task management with drag & drop, contact management and login | JavaScript, HTML, CSS, Firebase | [Live](https://join.jonas-hildebrand.de) |
+| [El Pollo Loco](https://github.com/johi94/El-Pollo-Loco) | 2D jump-and-run game with canvas rendering, collision detection and sound effects | JavaScript, CSS, HTML | [Live](https://pollo-loco.jonas-hildebrand.de/) |
+| [Pokédex](https://github.com/johi94/Pokedex) | Pokémon overview with live search and detail view powered by the PokéAPI | JavaScript, REST API, CSS | [Live](https://pokedex.jonas-hildebrand.de) |
+
 
 ### 🔗 Connect
 
