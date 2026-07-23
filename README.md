@@ -23,7 +23,7 @@ Currently building my skills through hands-on projects and a frontend course.
 | Projekt | Beschreibung | Stack | Demo |
 |---------|--------------|-------|------|
 | [Join](https://github.com/johi94/Join) | Kanban-Board zur Aufgabenverwaltung mit Drag & Drop, Kontaktverwaltung und Login | JavaScript, HTML, CSS, Firebase | [Live](https://join.jonas-hildebrand.de) |
-| [El Pollo Loco](https://github.com/johi94/El-Pollo-Loco) | 2D-Jump-and-Run-Spiel mit Canvas-Rendering, Kollisionslogik und Soundeffekten | JavaScript, Canvas API, OOP | [Live](https://el-pollo-loco.jonas-hildebrand.de) |
+| [El Pollo Loco](https://github.com/johi94/El-Pollo-Loco) | 2D-Jump-and-Run-Spiel mit Canvas-Rendering, Kollisionslogik und Soundeffekten | JavaScript, CSS, HTML | [Live](https://pollo-loco.jonas-hildebrand.de/) |
 | [Pokédex](https://github.com/johi94/Pokedex) | Pokémon-Übersicht mit Live-Suche und Detailansicht über die PokéAPI | JavaScript, REST API, CSS | [Live](https://pokedex.jonas-hildebrand.de) |
 
 ### 🔗 Connect
